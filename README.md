@@ -27,7 +27,10 @@ Modern AI applications suffer from three critical bottlenecks: single-provider r
 **ZERNEXA** completely reimagines personal AI infrastructure. Built as an ultra-fast local desktop application, ZERNEXA orchestrates a dynamic multi-key neural pool across Google Gemini, Groq, Cerebras, OpenRouter, and NVIDIA. It dynamically decomposes complex user objectives into parallel execution graphs, cross-checks every assertion across disjoint model families, and delivers synthesized intelligence directly to your desktop—accompanied by an expressive, screen-native AI pet companion capable of interacting with your operating system.
 
 <div align="center">
-  <img src="assets/screenshots/01_live_engine_trace.png" alt="ZERNEXA Live Engine Trace Interface" width="100%" />
+  <img width="1916" height="1021" alt="Screenshot 2026-09-15 035057" src="https://github.com/user-attachments/assets/622a99f4-333b-4c75-998a-bc6fe11d5f04" />
+
+<img width="1921" height="1020" alt="Screenshot 2026-09-15 035146" src="https://github.com/user-attachments/assets/eb6e7faf-35e8-4ccf-bf33-7351c7f3ecb6" />
+
   <p><em>ZERNEXA Desktop Interface: Real-time Live Engine Trace displaying 40-stage neural hierarchy and multi-key load balancing.</em></p>
 </div>
 
